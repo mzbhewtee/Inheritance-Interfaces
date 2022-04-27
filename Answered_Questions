@@ -1,0 +1,10 @@
+
+* Can a class inherit multiple classes in java? justify your answer.
+* Can a class implement multiple interfaces? justify your answer.
+
+
+### A class cannot inherit multiple classes in Java because of the ambiguity caused by it. Diamond problem is usually caused by multiple Inheritance.
+### Justification: In the Dog class an instance of multiple inheritance was created(Animal and Family), this resulted in an error. Therefore, these proofed that multiple inheritance is not allowed in Java
+
+### A class can implement multiple interfaces in java because it doesn't cause ambiguity.
+### Justification: The Interface package(File contained in it) proofs that a class can take multiple interfaces.
